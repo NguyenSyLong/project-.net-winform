@@ -1,0 +1,6 @@
+TestCase1
+INPUT:
+a
+OUTPUT:
+b
+Mark:8

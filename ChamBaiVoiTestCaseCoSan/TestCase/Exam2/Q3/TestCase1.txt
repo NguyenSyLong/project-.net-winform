@@ -1,0 +1,15 @@
+TestCase1
+INPUT:
+1
+HoLa1
+60
+2
+70
+OUTPUT:
+3
+REMOVE_SPACES:
+NO
+CASE_SENSITIVE:
+NO
+Mark:
+2

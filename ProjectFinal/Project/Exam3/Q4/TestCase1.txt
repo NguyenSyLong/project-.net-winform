@@ -1,0 +1,12 @@
+TestCase1
+INPUT:
+1
+a2bc3d5u
+OUTPUT:
+10
+REMOVE_SPACES:
+NO
+CASE_SENSITIVE:
+NO
+Mark:
+1

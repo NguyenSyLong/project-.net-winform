@@ -1,0 +1,11 @@
+TestCase3
+INPUT:
+a
+OUTPUT:
+b
+REMOVE_SPACES:
+NO
+CASE_SENSITIVE:
+NO
+Mark:
+0.5

@@ -1,0 +1,17 @@
+TestCase2
+INPUT:
+1
+HoLa1
+60
+3
+OUTPUT:
+HoLa1          60.0      
+KS20           60.0      
+FF12           70.0      
+FS21           80.0      
+REMOVE_SPACES:
+NO
+CASE_SENSITIVE:
+NO
+Mark:
+1

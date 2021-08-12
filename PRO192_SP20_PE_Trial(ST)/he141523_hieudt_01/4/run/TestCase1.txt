@@ -1,0 +1,6 @@
+1. Test f1()
+2. Test f2()
+Enter TC (1 or 2): Enter a string: 
+OUTPUT:
+10
+

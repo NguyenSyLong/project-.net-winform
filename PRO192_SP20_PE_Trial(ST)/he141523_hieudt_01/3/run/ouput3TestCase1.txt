@@ -1,0 +1,12 @@
+Add how many fans: Enter code: Enter price: Enter TC(1-f1;2-f2;3-f3): The list before running f1:
+FS21           80.0      
+KS20           60.0      
+FF12           70.0      
+HoLa1          60.0      
+Enter xCode: 
+OUTPUT:
+FS21           80.0      
+KS20           60.0      
+FF12           70.0      
+HoLa1          60.0      
+

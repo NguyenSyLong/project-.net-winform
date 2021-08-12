@@ -1,0 +1,8 @@
+Code
+he141523
+Name
+hieudt
+Exam
+01
+lsQ_TC
+Q1_TestCase1 Mark: 1

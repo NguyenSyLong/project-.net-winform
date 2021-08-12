@@ -1,0 +1,149 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Pictures\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Pictures\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Pictures\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Pictures\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\User\Desktop\Project\Project\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\Project\Project\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\Project\Project\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\New folder (2)\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Desktop\Project\Project\Project\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Desktop\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Project\obj\Debug\Project.FrmShow.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.FrmExam.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.FrmQuestion.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.FrmShow.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.FrmTestCase.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\New folder (2)\ProjectFinal\Project\obj\Debug\Project.pdb

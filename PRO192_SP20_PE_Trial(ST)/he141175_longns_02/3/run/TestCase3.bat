@@ -1,0 +1,1 @@
+(echo 1& echo HoLa1& echo 60& echo 3 ) | java -jar C:\Users\User\Desktop\ProjectTeam8PeAuto\PRO192_SP20_PE_Trial(ST)\he141175_LongNS_02/3/run/Q3.jar>C:\Users\User\Desktop\ProjectTeam8PeAuto\PRO192_SP20_PE_Trial(ST)\he141175_LongNS_02/3/run/TestCase3.txt

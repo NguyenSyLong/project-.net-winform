@@ -1,0 +1,1 @@
+(echo HoLa& echo 150& echo 299& echo 2 ) | java -jar C:\Users\User\Desktop\chayChamThu\PRO192_SP20_PE_Trial(ST)\he141175_longns_02/2/run/Q2.jar>C:\Users\User\Desktop\chayChamThu\PRO192_SP20_PE_Trial(ST)\he141175_longns_02/2/run/TestCase2.txt

@@ -1,0 +1,101 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Project.exe
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Projectbat\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.Form1.resources
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.Form1.resources
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Project\Project\Projectbat\obj\Debug\Projectbat.Mark.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.Form1.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.Mark.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\New folder (2)\Project\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.FrmMark.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.FrmMarkList.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\ProjectFixing\Project\Project\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMark.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMarkList.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMark.resources
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMarkList.resources
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\ProjectParse\ProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe.config
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.exe
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\bin\Debug\Projectbat.pdb
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMark.resources
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmMarkList.resources
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.Properties.Resources.resources
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.exe
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.pdb
+C:\Users\User\Desktop\testedProjectFinal\ProjectFinal\Projectbat\obj\Debug\Projectbat.FrmInformationMark.resources

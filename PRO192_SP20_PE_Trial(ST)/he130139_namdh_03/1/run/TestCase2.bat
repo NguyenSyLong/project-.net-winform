@@ -1,0 +1,1 @@
+(echo ab1& echo 12& echo 2& echo 20 ) | java -jar C:\Users\User\Desktop\chayChamThu\PRO192_SP20_PE_Trial(ST)\he130139_namdh_03/1/run/Q1.jar>C:\Users\User\Desktop\chayChamThu\PRO192_SP20_PE_Trial(ST)\he130139_namdh_03/1/run/TestCase2.txt
